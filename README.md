@@ -13,7 +13,7 @@ The goal of this project is to build a classifier that can accurately distinguis
 
 ## Dataset
 
-The dataset used in this project is a CSV file containing email data with word frequencies as features and a binary target variable ("Prediction") indicating whether an email is spam or not. Replace the file path accordingly
+The dataset used in this project is a CSV file containing email data with word frequencies as features and a binary target variable ("Prediction") indicating whether an email is spam or not.
 
 
 
